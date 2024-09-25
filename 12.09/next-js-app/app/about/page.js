@@ -1,3 +1,5 @@
+"use client"
+import { useState } from 'react';
 import Image from "next/image";
 import ItemList from "../components/ItemList";
 import ConditionalDisplay from "../components/ConditionalDisplay";
